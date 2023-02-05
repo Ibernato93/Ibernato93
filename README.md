@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ibernato93
 - 👀 I'm interested in mobile and backend development
-- 🌱 I'm currently learning Kotlin
+- 🌱 I'm currently learning iOS app development
 
 <!---
 Ibernato93/Ibernato93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
